@@ -1,4 +1,4 @@
-<h1>The Game Of Colors (HTML, CSS,JS + jQuery)</h1>
+<h1>The Game Of Colors (HTML, CSS, JS + jQuery)</h1>
 
  ### [See LIVE in the Browser](https://triffalin.github.io/gameofcolors/)
 
